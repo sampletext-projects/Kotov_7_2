@@ -29,7 +29,7 @@ void show_mass(int* array, int size)
 
 int main()
 {
-	setlocale(LC_ALL, "Russian");
+	setlocale(LC_ALL, "russian");
 	cout << "Выполнил Котов А.А. УМЛ-112\n";
 	cout << "Программа для создания и копирования массива\n";
 	int size = 10;
